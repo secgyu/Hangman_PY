@@ -28,7 +28,7 @@
 
 1. **저장소 클론:**
 ```bash
-   git clone https://github.com/secgyu/Hangman_PY
+git clone https://github.com/secgyu/Hangman_PY
 ```
 2. **디렉토리로 이동:**
 ```
