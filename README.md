@@ -12,4 +12,4 @@
 이미 사용한 글자를 다시 추측하면 남은 기회가 줄어들지 않습니다.   
 플레이어는 단어를 맞추거나, 행맨이 완성될 때까지 추측을 계속할 수 있습니다.  
 
-![Hangman Game](images/hangman_screenshot.png)
+![Hangman Game](https://github.com/secgyu/Hangman_PY/blob/main/Hangman.png)
