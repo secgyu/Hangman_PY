@@ -27,9 +27,9 @@
 이 게임을 로컬 컴퓨터에서 실행하려면 다음 단계를 따르세요:
 
 1. **저장소 클론:**
-   ```bash
-   git clone https://your-repository-url.git
-   ```
+```bash
+   git clone https://github.com/secgyu/Hangman_PY
+```
 2. **디렉토리로 이동:**
 ```
 cd hangman-game
